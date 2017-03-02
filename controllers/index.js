@@ -1,3 +1,3 @@
 var User = require('../controllers/user')
 
-module.exports = {User}
+module.exports = { User}
